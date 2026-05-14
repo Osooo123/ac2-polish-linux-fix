@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Disclaimer
+
+This project does not include or distribute any Ubisoft files, game assets, translations, executables, cracks, or copyrighted game content.
+
+It only provides a shell script that changes registry values inside the Proton/Wine prefix before launching the game.
+
+Assassin’s Creed II and Ubisoft are trademarks/properties of Ubisoft. This project is unofficial and is not affiliated with, endorsed by, sponsored by, or 

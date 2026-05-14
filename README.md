@@ -58,7 +58,7 @@ Arch Linux / EndeavourOS / Manjaro:
 sudo pacman -S protontricks
 ```
 
-Jeśli `protontricks` nie jest dostępny w repozytorium twojej dystrybucji, możesz użyć wersji Flatpak:
+Jeśli `protontricks` nie jest dostępny w repozytorium twojej dystrybucji LUB MASZ STEAM DECKA, możesz użyć wersji Flatpak:
 
 ```bash
 flatpak install flathub com.github.Matoking.protontricks
